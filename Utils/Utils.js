@@ -1,1 +1,1 @@
-Hi againnduduh
+const s = 69
