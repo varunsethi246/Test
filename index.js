@@ -1,5 +1,5 @@
 const age1 =24
-const name1 = varun246
+const name1 = varun
 
 
 
